@@ -74,12 +74,12 @@ require (
 	github.com/zricethezav/gitleaks/v8 v8.18.5-0.20240912004812-e93a7c0d2604
 	go.starlark.net v0.0.0-20231121155337-90ade8b19d09
 	go.uber.org/multierr v1.11.0
-	golang.org/x/crypto v0.25.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
 	golang.org/x/oauth2 v0.21.0
-	golang.org/x/sync v0.7.0
-	golang.org/x/term v0.22.0
-	golang.org/x/text v0.16.0
+	golang.org/x/sync v0.10.0
+	golang.org/x/term v0.27.0
+	golang.org/x/text v0.21.0
 	google.golang.org/api v0.189.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/mail.v2 v2.3.1
@@ -125,7 +125,6 @@ require (
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/h2non/filetype v1.1.3 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/invopop/yaml v0.2.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20231201235250-de7065d80cb9 // indirect
@@ -154,7 +153,6 @@ require (
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
-	github.com/spf13/cobra v1.8.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.19.0 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
@@ -205,7 +203,7 @@ require (
 	github.com/yuin/goldmark v1.4.13
 	golang.org/x/mod v0.19.0 // indirect
 	golang.org/x/net v0.27.0
-	golang.org/x/sys v0.22.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/tools v0.23.0 // indirect
 	google.golang.org/genproto v0.0.0-20240722135656-d784300faade // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
